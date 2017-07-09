@@ -1,0 +1,17 @@
+Name: EMS
+
+Description: It is a simple employee management system
+
+First draft
+
+Feature list
+  Employee portal
+	1. Employee login and logout. Record out time
+	2. Holiday counts
+	3. Work sheet fill up
+
+  Employer portal
+    1. Login / logout
+    2. Employer profile visit - holiday counts, reducing holidays, delete employee, view worksheet, leave a message, view in/out time
+
+<<<<<<<<<<<<------------------>>>>>>>>>>>>

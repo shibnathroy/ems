@@ -1,0 +1,4 @@
+# Ignore api node_module folder
+ems-api/node_modules
+# Ignore bower components
+ui/lib

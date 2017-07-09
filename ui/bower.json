@@ -1,0 +1,21 @@
+{
+  "name": "ems ui",
+  "authors": [
+    "Shibnath Roy <shibnath.roy.007@gmail.com>"
+  ],
+  "description": "It is a simple employee management system",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "components-font-awesome": "^4.7.0",
+    "bootstrap": "^3.3.7"
+  }
+}
